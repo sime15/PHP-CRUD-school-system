@@ -44,4 +44,6 @@ Koriscene tehnologije su: PHP, MySql, jQuery, Bootstrap i AJAX.
 
 - ajax pozivi za ucitavanje ucenika koji pohadjaju izabranu skolu (prikaz podataka ucenika sa opcijama details, edit i delete)
 
+---------------------------------------------------------------------------------------------------------------------------
 
+Sve pobrojane opcije mogu se isprobati na adresi: http://jpdesign.ba/sime_test/ucenici/
